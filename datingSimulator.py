@@ -1,7 +1,5 @@
 #Dating Simulator
-#Authors: Anshul Rana
 #Date: 21/12/2021
-#Version: 1.0
 
 
 import os
@@ -9,7 +7,7 @@ import google.generativeai as genai
 from IPython.display import Markdown
 import textwrap
 
-os.environ['GOOGLE_API_KEY'] = "AIzaSyCplVD1MgPw1YwRrt3LuNsh4sGLLVp6IoE"
+os.environ['GOOGLE_API_KEY'] = "Generate your own API key"
 genai.configure(api_key = os.environ['GOOGLE_API_KEY'])
 
 def to_markdown(text):

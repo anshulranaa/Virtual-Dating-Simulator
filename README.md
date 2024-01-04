@@ -1,1 +1,2 @@
 # Dating-Simulator
+Welcome to my innovative project – a unique Dating Simulator that leverages the power of Language Learning Models (LLM), specifically the Gemini Pro API, to create an immersive and interactive dating simulation experience. This project was born out of a fun idea to explore the realms of virtual dating, providing a safe and engaging platform for users to practice and enhance their dating skills.

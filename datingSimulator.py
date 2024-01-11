@@ -108,4 +108,4 @@ while convo != "quit":
     convo = input("Continue the conversation... or type quit to exit")
     print(f"You : {convo} ")
         
-print("Thank you for using the dating simulator, we hope you enjoyed it!")
+print("Thank you for using the Virtual Bumble, we hope you enjoyed it!")
